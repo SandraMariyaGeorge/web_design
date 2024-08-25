@@ -10,6 +10,8 @@ Projects Included:
     
     ->To-Do List: A dynamic to-do list app to understand event handling and local storage.
     
+    ->Blog App: A Social Media Backend REST API With Node.JS, Express JS and MongoDB.
+    
     ->Weather App: Fetch weather data from an API to learn about asynchronous programming and API interactions.
     
     ->Memory Game: A classic memory game to get familiar with game logic and state management.
